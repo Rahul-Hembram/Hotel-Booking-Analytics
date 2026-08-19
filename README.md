@@ -335,13 +335,9 @@ Understanding which market segments and distribution channels generate bookings 
 
 ## 📸 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
 ```markdown
-![Hotel Booking Analytics Dashboard](images/hotel-booking-dashboard.png)
+![Hotel Booking Analytics Dashboard](Screenshot%202026-08-19%20235031.png)
 ```
-
-If your screenshot is stored in the repository under an `images` folder, the above Markdown will display it directly on GitHub.
 
 ---
 
