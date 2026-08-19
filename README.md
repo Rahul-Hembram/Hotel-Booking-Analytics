@@ -335,9 +335,11 @@ Understanding which market segments and distribution channels generate bookings 
 
 ## 📸 Dashboard Preview
 
-```markdown
-![Hotel Booking Analytics Dashboard](Screenshot%202026-08-19%20235031.png)
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rahul-Hembram/Hotel-Booking-Analytics/main/Screenshot%202026-08-19%20235031.png" 
+       alt="Hotel Booking Analytics Dashboard" 
+       width="900">
+</p>
 
 ---
 
